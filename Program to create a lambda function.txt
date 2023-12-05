@@ -1,0 +1,7 @@
+Program to create a lambda function that adds 10 to a given number passed on as arg, also create a lambda function that multiplies arg x with arg y and prints the result
+
+2. Write the python program to square and cube every number in a given list of integers using lambda
+
+3. Pyhton function to find d maximum of 3 numbers
+
+4. Python function to check whether a number falls within a given a range
